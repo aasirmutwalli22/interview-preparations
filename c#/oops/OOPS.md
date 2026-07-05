@@ -26,3 +26,16 @@ Look at the following illustration to see the difference between class and objec
 So, a class is a template for objects, and an object is an instance of a class.
 
 When the individual objects are created, they inherit all the variables and methods from the class.
+
+# OOPs Concepts
+
+- Class
+- Object
+- Class Members
+- Constructor
+- Access Mofifiers
+- Encapsulation & Properties (GET and SET)
+- Inheritance (Derived and Base Class)
+- Polymorphism (Overriding Methods)
+- Abstraction (Abstract Class & Methods)
+- Interface
